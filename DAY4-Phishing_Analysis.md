@@ -37,6 +37,7 @@ Completed three separate labs focused on artifact collection and analysis:
    - Analyzed File for details
    - used developer tool to look for network flow
    - extracted its hash to check for reputaion
+   - used cybercafe to decipher the logo URL used
    - based on all this it was successfully identified as Credential Harvester spoofing as Microsoft
 
 Each lab used different tools tailored to that artifact type, reinforcing how various artifacts serve specific investigative purposes.
