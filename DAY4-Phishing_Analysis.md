@@ -30,12 +30,14 @@ Today’s focus was on understanding and investigating **artifacts** left behind
 Completed three separate labs focused on artifact collection and analysis:
 
 1. **Email Artifacts Lab**
-   - Used tools to extract and interpret email headers and metadata
-   - Correlated suspicious indicators across different fields
+   - Used Sublime to extract artifacts manually
+   - Two mails were used to look for artifacts
 
-2. **Web Artifacts Lab**
-   - Analyzed browser traces and captured cached data
-   - Practiced identifying browsing patterns and correlating with malicious behavior
+2. **Investigating an Attachment Lab**
+   - Analyzed File for details
+   - used developer tool to look for network flow
+   - extracted its hash to check for reputaion
+   - based on all this it was successfully identified as Credential Harvester spoofing as Microsoft
 
 Each lab used different tools tailored to that artifact type, reinforcing how various artifacts serve specific investigative purposes.
 
