@@ -1,6 +1,6 @@
 # Government Email Domains for Phishing Detection
 
-This document lists official government email domains for major countries to help detect spoofed or phishing emails. Phishing campaigns often impersonate government authorities — recognizing legitimate domains is critical to effective detection.
+This document lists official government email domains for major countries to help detect spoofed or phishing emails. Phishing campaigns often impersonate government authorities recognizing legitimate domains is critical to effective detection.
 
 ## India (🇮🇳)
 
