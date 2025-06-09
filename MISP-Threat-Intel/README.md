@@ -31,9 +31,9 @@ To simulate a full Threat Intelligence lifecycle using a real threat actor profi
 MISP-Threat-Intel/
 ├── README.md             # Overview of the lab 
 ├── ova-setup.md          # Step-by-step setup using OVA
-├── events.md             # MISP event creation for APT28
-├── iocs.md               # IOC enrichment based on threat report
-└── screenshots/          # Visual documentation (login, event, IOC)
+├── Events.md             # MISP event creation for APT28
+├── IOCs.md               # IOC enrichment based on threat report
+└── Screenshots/          # Visual documentation (login, event, IOC)
 ```
 ## Key Skills Demonstrated
 
