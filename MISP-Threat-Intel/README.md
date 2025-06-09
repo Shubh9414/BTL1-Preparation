@@ -31,14 +31,14 @@ Interface             | MISP Web UI + Command Line |
 Threat Source         | NCSC Report on APT28       |
 
 ## Repository Structure
-
-misp-apt28-lab/
-├── README.md             # Overview of the lab (this file)
+```bash
+MISP-Threat-Intel/
+├── README.md             # Overview of the lab 
 ├── ova-setup.md          # Step-by-step setup using OVA
 ├── events.md             # MISP event creation for APT28
 ├── iocs.md               # IOC enrichment based on threat report
 └── screenshots/          # Visual documentation (login, event, IOC)
-
+```
 ## Key Skills Demonstrated
 
 - MISP deployment using OVA
