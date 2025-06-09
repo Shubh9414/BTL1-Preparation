@@ -18,17 +18,13 @@ To simulate a full Threat Intelligence lifecycle using a real threat actor profi
 
 ## Lab Environment
 
-Component             | Description                |
-
-OS                    | Ubuntu (via CIRCL MISP OVA)|
-
-TIP                   | MISP (v2.4.x)              |
-
-Hypervisor            | VirtualBox                 |
-
-Interface             | MISP Web UI + Command Line |
-
-Threat Source         | NCSC Report on APT28       |
+|Component             | Description                |
+|----------------------|----------------------------|
+|OS                    | Ubuntu (via CIRCL MISP OVA)|
+|TIP                   | MISP (v2.4.x)              |
+|Hypervisor            | VirtualBox                 |
+|Interface             | MISP Web UI + Command Line |
+|Threat Source         | NCSC Report on APT28       |
 
 ## Repository Structure
 ```bash
