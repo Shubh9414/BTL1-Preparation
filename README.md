@@ -20,7 +20,7 @@ While I had prior theoretical exposure through Security+ and tools experience, t
 | MITRE ATT&CK         | Full tactic/technique breakdown, ATT&CK mapping          |
 | Reporting & Analysis | Markdown, post-incident documentation, timeline building |
 
-## 📚 What I Learned
+## What I Learned
 
 ### Practical Understanding of a Blue Team Analyst’s Role
 - The workflow of an analyst: detection → triage → investigation → response
