@@ -10,7 +10,7 @@
 This repository documents my practical journey through the **Security Blue Team Level 1 (BTL1)** certification. It includes real-world threat investigation scenarios and evidence-backed detections using industry-standard Blue Team tools like Splunk, Autopsy, Wireshark, and DeepBlueCLI.
 
 
-## Experience Gained Through the Exam
+## Experience Through the Exam
 
 The BTL1 exam was more than just a test it was a **live threat incident response simulation**. Here’s what I experienced during the 24-hour window:
 
